@@ -7,8 +7,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Vulnerability Management Program Implementation](https://github.com/felipearborestrepo/vulnerability-management-project/tree/main)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/felipearborestrepo/programmatic-vulnerability-remediations-powershelll-bash/blob/main/README.md)**
-- **[Unauthenticated Scan vs Authenticated Scan Results]**(https://github.com/felipearborestrepo/Unauthenticated_vs_Authenticated-Scans)
-- **[Unauthenticated Scan vs AUthenticated Scan Results LINUX]**(https://github.com/felipearborestrepo/Linux_UnauthenticatedvsAuthenticated-Scans/blob/main/README.md#-project-structure)
+- **[Unauthenticated Scan vs Authenticated Scan Results](https://github.com/felipearborestrepo/Unauthenticated_vs_Authenticated-Scans)**
+- **[Unauthenticated Scan vs AUthenticated Scan Results LINUX](https://github.com/felipearborestrepo/Linux_UnauthenticatedvsAuthenticated-Scans/blob/main/README.md#-project-structure)**
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/felipearborestrepo/threat-hunting-scenario-tor-project)**
