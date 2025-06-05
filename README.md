@@ -9,6 +9,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/felipearborestrepo/programmatic-vulnerability-remediations-powershelll-bash/blob/main/README.md)**
 - **[Unauthenticated Scan vs Authenticated Scan Results(Tenable Nessus)](https://github.com/felipearborestrepo/Unauthenticated_vs_Authenticated-Scans)**
 - **[Unauthenticated Scan vs Authenticated Scan Results LINUX(Tenable Nessus)](https://github.com/felipearborestrepo/Linux_UnauthenticatedvsAuthenticated-Scans/blob/main/README.md#-project-structure)**
+-  **[DISA STIG Template and Scan Execution Project(Tenable Nessus)](https://github.com/felipearborestrepo/DISA-STIG-Vulnerability-Template-Scan)**
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/felipearborestrepo/threat-hunting-scenario-tor-project)**
