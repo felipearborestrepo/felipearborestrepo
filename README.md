@@ -10,6 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Unauthenticated Scan vs Authenticated Scan Results(Tenable Nessus)](https://github.com/felipearborestrepo/Unauthenticated_vs_Authenticated-Scans)**
 - **[Unauthenticated Scan vs Authenticated Scan Results LINUX(Tenable Nessus)](https://github.com/felipearborestrepo/Linux_UnauthenticatedvsAuthenticated-Scans/blob/main/README.md#-project-structure)**
 -  **[DISA STIG Template and Scan Execution Project(Tenable Nessus)](https://github.com/felipearborestrepo/DISA-STIG-Vulnerability-Template-Scan)**
+-  **[Nessus Agent Scan Project Implementation(Tenable Nessus)](https://github.com/felipearborestrepo/Nessus-Agent-Scan-Project-Implementation/blob/main/README.md)**
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/felipearborestrepo/threat-hunting-scenario-tor-project)**
