@@ -14,6 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 -  **[Nessus Agent Scan Project Implementation LINUX (Tenable Nessus)](https://github.com/felipearborestrepo/Nessus-Agent-Scan-Linux-Project-Implementation/blob/main/README.md)**
 -  **[Discovery Scan: Entire Subnet](https://github.com/felipearborestrepo/Discovery-Scan-Entire-Subnet-Scan-/blob/main/README.md)**
 -  **[Manual Vulnerability Creation Remediation Project (FIREXFOX/SMB)](https://github.com/felipearborestrepo/Manual-Vulnerability-Creation-Remediation-Project/blob/main/README.md)**
+-  **[Programmatic Vulnerability Remediation Windows 10](https://github.com/felipearborestrepo/Programmatic-Vulnerability-Remediation/blob/main/README.md)**
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/felipearborestrepo/threat-hunting-scenario-tor-project)**
