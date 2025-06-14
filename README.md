@@ -18,7 +18,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/felipearborestrepo/threat-hunting-scenario-tor-project)**
-
+- **[Brute Force Investigation in Exposed Azure VMs(Microsoft Defender, KQL Queries)](https://github.com/felipearborestrepo/MITRE-ATTACK-TTP-Devices-Exposed-to-the-Internet)**
 <hr/>
 
 ## 🤳 Connect With Me
