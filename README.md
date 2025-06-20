@@ -21,19 +21,19 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Brute Force Investigation in Exposed Azure VMs(Microsoft Defender, KQL Queries)](https://github.com/felipearborestrepo/MITRE-ATTACK-TTP-Devices-Exposed-to-the-Internet)**
 - **[Threat Hunting: Sudden Network Slowdowns (Simulated Attack)](https://github.com/felipearborestrepo/Threat-Hunting-Project-Entropy-Gorilla-Port-Scan/blob/main/README.md)**
 - **[Threat Hunting: Data Exfiltration by PIPd Employee (Simulated)](https://github.com/felipearborestrepo/Threat-Hunting-Data-Exfiltration-by-PIPd-Employee-Simulated-/blob/main/README.md)**
+
+## 🧯Incident Response and Triggering Alerts
+
+- **[Azure Sentinel: Brute Force Detection & Incident Response](https://github.com/felipearborestrepo/Incident-Response-Virtual-Machine-Brute-Forcing/blob/main/README.md)**
 <hr/>
 
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://www.linkedin.com/in/felipe-restrepo-ab56a5318/" />][linkedin]
 [<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/___________
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
