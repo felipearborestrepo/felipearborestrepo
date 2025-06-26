@@ -26,7 +26,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Azure Sentinel: Brute Force Detection & Incident Response(NIST 800-61)](https://github.com/felipearborestrepo/Incident-Response-Virtual-Machine-Brute-Forcing/blob/main/README.md)**
 - **[Azure Sentinel: Incident Response Project: PowerShell Suspicious Web Request(NIST 800-61)](https://github.com/felipearborestrepo/Incident-Response-PowerShell-Suspicious-Web-Request-NIST-800-61-/blob/main/README.md)**
-- **[Azure Sentinel: Incident Response Project: Impossible Travel Alert(NIST 88-61)] (https://github.com/felipearborestrepo/Incident-Response-Potential-Impossible-Travel-MITRE-ATT-CK/blob/main/README.md)**
+- **[Azure Sentinel: Incident Response Project: Impossible Travel Alert(NIST 88-61)](https://github.com/felipearborestrepo/Incident-Response-Potential-Impossible-Travel-MITRE-ATT-CK/blob/main/README.md)**
 <hr/>
 
 
