@@ -31,6 +31,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🛡️🦅DISA STIG Implementation
 
 - **[DISA STIG Remediation on Windows 10 using Tenable & PowerShell "WN10-SO-000100 SMB packet signing"](https://github.com/felipearborestrepo/DISA-STIG-Remediation-on-Windows-10-using-Tenable-PowerShell-WN10-SO-000100-/blob/main/README.md)**
+
+## 🏢Active Directory Managing and Troubleshooting
+- **[Active Directory Troubleshooting Lab (1-VM Azure Setup)](https://github.com/felipearborestrepo/Active-Directory)**
 <hr/>
 
 
