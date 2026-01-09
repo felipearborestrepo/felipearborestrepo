@@ -2,7 +2,10 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-
+## 🏢Identity and Access Management Projects
+- **[Azure Entra ID IAM Foundation Lab](https://github.com/felipearborestrepo/Azure-Entra-ID-IAM-Foundation-Lab)** 
+- **[Active Directory Troubleshooting Lab (1-VM Azure Setup)](https://github.com/felipearborestrepo/Active-Directory)**
+  
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/felipearborestrepo/vulnerability-management-project/tree/main)**
@@ -36,8 +39,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[DISA STIG Remediation on Windows 10 using Tenable & PowerShell "WN10-SO-000100 SMB packet signing"](https://github.com/felipearborestrepo/DISA-STIG-Remediation-on-Windows-10-using-Tenable-PowerShell-WN10-SO-000100-/blob/main/README.md)**
 
-## 🏢Active Directory Managing and Troubleshooting
-- **[Active Directory Troubleshooting Lab (1-VM Azure Setup)](https://github.com/felipearborestrepo/Active-Directory)**
 <hr/>
 
 
