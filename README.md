@@ -7,6 +7,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Microsoft Azure Entra ID Conditional Access Policy Creation (MFA)](https://github.com/felipearborestrepo/Azure-Entra-ID-Conditional-Access-Policies/blob/main/README.md)**
 - **[ Microsoft Entra ID Conditional Access Lab/Enforcing MFA with Privileged Identity Management & Sign-In Log Validation](https://github.com/felipearborestrepo/Microsoft-Entra-ID-Privileged-Identity-Management-PIM-Conditional-Access-Lab/blob/main/README.md)**
 - **[Microsoft Entra Privileged Identity Management (PIM) Just-in-Time Lab](https://github.com/felipearborestrepo/-Microsoft-Entra-Privileged-Identity-Management-PIM-Just-in-Time-Lab-/blob/main/README.md)**
+- **[Microsoft Entra ID — Dynamic Group IAM Model/Automated Identity Lifecycle Management System (JML)](https://github.com/felipearborestrepo/Microsoft-Entra-ID-Dynamic-Group-IAM-Model-Automated-Identity-Lifecycle-Management-System-JML-/blob/main/README.md)**
 - **[Active Directory Troubleshooting Lab (1-VM Azure Setup)](https://github.com/felipearborestrepo/Active-Directory)**
   
 ## ⚠️ Vulnerability Management Projects
