@@ -2,11 +2,12 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-## 🏢Identity and Access Management Projects
+### 🏢Identity and Access Management Projects
 - **[Hybrid Identity IAM Lab — Active Directory to Microsoft Entra ID Sync](https://github.com/felipearborestrepo/-Hybrid-Identity-IAM-Lab-Active-Directory-to-Microsoft-Entra-ID-Sync/tree/main)**
 - **[Microsoft Azure Entra ID IAM Foundation Lab](https://github.com/felipearborestrepo/Azure-Entra-ID-IAM-Foundation-Lab)**
 - **[Microsoft Azure Entra ID Conditional Access Policy Creation (MFA)](https://github.com/felipearborestrepo/Azure-Entra-ID-Conditional-Access-Policies/blob/main/README.md)**
 - **[ Microsoft Entra ID Conditional Access Lab/Enforcing MFA with Privileged Identity Management & Sign-In Log Validation](https://github.com/felipearborestrepo/Microsoft-Entra-ID-Privileged-Identity-Management-PIM-Conditional-Access-Lab/blob/main/README.md)**
+- **[ Microsoft Entra ID — Conditional Access & Zero Trust Enforcement Lab](https://github.com/felipearborestrepo/Microsoft-Entra-ID-Conditional-Access-Zero-Trust-Enforcement-Lab/tree/main)**
 - **[Microsoft Entra Privileged Identity Management (PIM) Just-in-Time Lab](https://github.com/felipearborestrepo/-Microsoft-Entra-Privileged-Identity-Management-PIM-Just-in-Time-Lab-/blob/main/README.md)**
 - **[Microsoft Entra ID — Dynamic Group IAM Model/Automated Identity Lifecycle Management System (JML)](https://github.com/felipearborestrepo/Microsoft-Entra-ID-Dynamic-Group-IAM-Model-Automated-Identity-Lifecycle-Management-System-JML-/blob/main/README.md)**
 - **[Microsoft Entra ID — Identity Governance & Access Reviews Lab](https://github.com/felipearborestrepo/Microsoft-Entra-ID-Identity-Governance-Access-Reviews-Lab/tree/main)**
