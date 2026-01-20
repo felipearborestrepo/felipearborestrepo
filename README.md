@@ -6,6 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Hybrid Identity IAM Lab — Active Directory to Microsoft Entra ID Sync](https://github.com/felipearborestrepo/-Hybrid-Identity-IAM-Lab-Active-Directory-to-Microsoft-Entra-ID-Sync/tree/main)**
 - **[Microsoft Azure Entra ID IAM Foundation Lab](https://github.com/felipearborestrepo/Azure-Entra-ID-IAM-Foundation-Lab)**
 - **[Microsoft Azure Entra ID Conditional Access Policy Creation (MFA)](https://github.com/felipearborestrepo/Azure-Entra-ID-Conditional-Access-Policies/blob/main/README.md)**
+- **[Enterprise Application & SSO Engineering Lab](https://github.com/felipearborestrepo/Enterprise-Application-SSO-Engineering-Lab-/tree/main)**
 - **[ Microsoft Entra ID Conditional Access Lab/Enforcing MFA with Privileged Identity Management & Sign-In Log Validation](https://github.com/felipearborestrepo/Microsoft-Entra-ID-Privileged-Identity-Management-PIM-Conditional-Access-Lab/blob/main/README.md)**
 - **[ Microsoft Entra ID — Conditional Access & Zero Trust Enforcement Lab](https://github.com/felipearborestrepo/Microsoft-Entra-ID-Conditional-Access-Zero-Trust-Enforcement-Lab/tree/main)**
 - **[Break-Glass Emergency Administrator Accounts (Microsoft Entra ID)](https://github.com/felipearborestrepo/Break-Glass-Emergency-Administrator-Accounts-Microsoft-Entra-ID-/tree/main)**
