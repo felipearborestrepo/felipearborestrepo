@@ -4,7 +4,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ### 🏢Identity and Access Management Projects
 - **[Enterprise Conditional Access & Zero Trust Architecture](https://github.com/felipearborestrepo/-Enterprise-Conditional-Access-Zero-Trust-Architecture-)**
-- **[Privileged Identity Management (PIM) & Just-In-Time Admin Access](https://github.com/felipearborestrepo/Privileged-Identity-Management-PIM-Just-In-Time-Admin-Access/tree/main)** 
+- **[Privileged Identity Management (PIM) & Just-In-Time Admin Access](https://github.com/felipearborestrepo/Privileged-Identity-Management-PIM-Just-In-Time-Admin-Access/tree/main)**
+- **[ Identity Governance & Access Reviews – Microsoft Entra ID](https://github.com/felipearborestrepo/-Identity-Governance-Access-Reviews-Microsoft-Entra-ID-/tree/main)**
 - **[Hybrid Identity IAM Lab — Active Directory to Microsoft Entra ID Sync](https://github.com/felipearborestrepo/-Hybrid-Identity-IAM-Lab-Active-Directory-to-Microsoft-Entra-ID-Sync/tree/main)**
 - **[ Passwordless & Phishing-Resistant Authentication Architecture](https://github.com/felipearborestrepo/-Passwordless-Phishing-Resistant-Authentication-Architecture-/tree/main)**
 - **[Microsoft Azure Entra ID IAM Foundation Lab](https://github.com/felipearborestrepo/Azure-Entra-ID-IAM-Foundation-Lab)**
