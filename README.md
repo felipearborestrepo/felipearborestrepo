@@ -8,6 +8,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[ Identity Governance & Access Reviews – Microsoft Entra ID](https://github.com/felipearborestrepo/-Identity-Governance-Access-Reviews-Microsoft-Entra-ID-/tree/main)**
 - **[Hybrid Identity IAM Lab — Active Directory to Microsoft Entra ID Sync](https://github.com/felipearborestrepo/-Hybrid-Identity-IAM-Lab-Active-Directory-to-Microsoft-Entra-ID-Sync/tree/main)**
 - **[ Passwordless & Phishing-Resistant Authentication Architecture](https://github.com/felipearborestrepo/-Passwordless-Phishing-Resistant-Authentication-Architecture-/tree/main)**
+- **[Hybrid IAM & Secure Application Access Architecture (AD + Microsoft Entra ID)](https://github.com/felipearborestrepo/-Hybrid-IAM-Secure-Application-Access-Architecture-AD-Microsoft-Entra-ID-/blob/main/README.md)**
 - **[Microsoft Azure Entra ID IAM Foundation Lab](https://github.com/felipearborestrepo/Azure-Entra-ID-IAM-Foundation-Lab)**
 - **[Microsoft Azure Entra ID Conditional Access Policy Creation (MFA)](https://github.com/felipearborestrepo/Azure-Entra-ID-Conditional-Access-Policies/blob/main/README.md)**
 - **[Microsoft Entra ID — HR Onboarding Access Package (Identity Governance Lab)](https://github.com/felipearborestrepo/Microsoft-Entra-ID-HR-Onboarding-Access-Package-Identity-Governance-Lab-/tree/main)**
