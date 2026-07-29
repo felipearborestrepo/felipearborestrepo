@@ -2,6 +2,9 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
+### PowerShell Automation Projects + Microsoft Graph API
+- **[No-MFA-Detector-Automated-Remediation](https://github.com/felipearborestrepo/No-MFA-Detector-Automated-Remediation-Microsoft-Graph-API-PowerShell)**
+
 ### 🏢Identity and Access Management Projects
 - **[Enterprise Conditional Access & Zero Trust Architecture](https://github.com/felipearborestrepo/-Enterprise-Conditional-Access-Zero-Trust-Architecture-)**
 - **[Privileged Identity Management (PIM) & Just-In-Time Admin Access](https://github.com/felipearborestrepo/Privileged-Identity-Management-PIM-Just-In-Time-Admin-Access/tree/main)**
