@@ -5,7 +5,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ### PowerShell Automation Projects + Microsoft Graph API
 ### Entra-ID-Security-Health-Check-Automated-PowerShell-Toolkit
 - **[No MFA Detector Automated Remediation](https://github.com/felipearborestrepo/No-MFA-Detector-Automated-Remediation-Microsoft-Graph-API-PowerShell)**
-- **[Stale User Finder Inactive Account Detection via Microsoft Graph](https://github.com/felipearborestrepo/Stale-User-Finder-Inactive-Account-Detection-via-Microsoft-Graph)**
+- **[Stale User Finder Inactive Account Detection](https://github.com/felipearborestrepo/Stale-User-Finder-Inactive-Account-Detection-via-Microsoft-Graph)**
 - **[App Secret & Certificate Expiry Scanner](https://github.com/felipearborestrepo/Entra-ID-Security-Health-Check-Automated-PowerShell-Toolkit)**
 
 ### 🏢Identity and Access Management Projects
