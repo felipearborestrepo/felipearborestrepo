@@ -6,6 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Automated User Onboarding Microsoft Graph API PowerShell](https://github.com/felipearborestrepo/Automated-User-Onboarding-Microsoft-Graph-API-PowerShell)**
 - **[Entitlement Management Governed Access Packages Microsoft Entra ID](https://github.com/felipearborestrepo/Entitlement-Management-Governed-Access-Packages-Microsoft-Entra-ID/blob/main/README.md)**
 - **[Automated Offboarding Secure Account Termination via Microsoft Graph](https://github.com/felipearborestrepo/Automated-Offboarding-Secure-Account-Termination-via-Microsoft-Graph/blob/main/README.md)**
+- **[Dynamic Groups Auditor Automated Membership Rule Validation via Microsoft Graph](https://github.com/felipearborestrepo/Dynamic-Groups-Auditor-Automated-Membership-Rule-Validation-via-Microsoft-Graph/blob/main/README.md)**
 
 ### PowerShell Automation Projects + Microsoft Graph API
 ### 🏥Entra ID Security Health Check Automated PowerShell Toolkit
