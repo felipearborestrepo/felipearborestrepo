@@ -2,9 +2,27 @@
 # Current Position: IT System Administrator/Engineer 
 
 **Identity & Access Management**
-Okta Administration · Microsoft Entra ID (Azure AD) · Conditional Access · MFA Enforcement · FIDO2/WebAuthn · SSO · SAML 2.0 · OIDC · Identity Lifecycle Management · User Provisioning & Deprovisioning · Access Reviews · Privileged Access Management
+- Okta Administration · Microsoft Entra ID (Azure AD) · Conditional Access · MFA Enforcement · FIDO2/WebAuthn · SSO · SAML 2.0 · OIDC · Identity Lifecycle Management · User Provisioning & Deprovisioning · Access Reviews · Privileged Access Management
+**Automation AI & Scripting**
+- PowerShell · Microsoft Graph API · AI Autopilot · Microsoft Copilot · Process Automation · Claude Cowork · Python
+**IT Service Management**
+- ITSM · ITIL (Incident · Problem · Change · Request Management) · CMDB Accuracy · SLA Management · KPI Monitoring · ServiceNow · Ticket Quality · Continual Service Improvement · Vendor Management · IT Contract Management
+**Endpoint & Device Management**
+- Microsoft Intune · Autopilot · Windows 11 Endpoint Management · macOS Support · Device Compliance Policies · Endpoint Security · Patch Management · Software Deployment · BitLocker · Device Lifecycle Management · PC Imaging & Deployment
+**Infrastructure & Security**
+Windows Server · Active Directory · DNS · DHCP · TCP/IP · VPN · Firewall Concepts · Zscaler ZIA (Zero Trust/SASE) · Microsoft Sentinel (KQL) · Vulnerability Management · Security Posture Monitoring · SOC 2 Awareness
 
 # Certifications
+- Okta Certified Administrator
+- Okta Certified Professional
+- SC-300 Microsoft Identity and Access Administrator Associate
+- AZ-104 Microsoft Azure Administrator Associate
+- CompTIA Security+
+- AZ-900 Microsoft Azure Fundamentals
+- SC-900 Microsoft Security, Compliance and Identity Fundamentals
+- SC-500 Microsoft Azure Cloud AI Security Engineer Associate (In Progress)
+
+# Projects (Labs and Skills)
 ### 🔄🔐Automated Identity Lifecycle & Governed Access Management System + PowerShell Microsoft Graph API Automation
 - **[Automated User Onboarding Microsoft Graph API PowerShell](https://github.com/felipearborestrepo/Automated-User-Onboarding-Microsoft-Graph-API-PowerShell)**
 - **[Entitlement Management Governed Access Packages Microsoft Entra ID](https://github.com/felipearborestrepo/Entitlement-Management-Governed-Access-Packages-Microsoft-Entra-ID/blob/main/README.md)**
