@@ -1,7 +1,6 @@
-# <a href="https://www.linkedin.com/in/feliperestrepo/">Felipe Restrepo</a>'s IAM, IT and Cybersecurity Project Portfolio 🔐
-
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
-
+# <a href="https://www.linkedin.com/in/feliperestrepo/">Felipe Restrepo</a>'s IAM, Cloud, IT and Cybersecurity Project Portfolio 🔐
+# Current Position: IT System Administrator/Engineer | Okta · Entra ID · Endpoint Management · ITSM
+# Certifications
 ### 🔄🔐Automated Identity Lifecycle & Governed Access Management System + PowerShell Microsoft Graph API Automation
 - **[Automated User Onboarding Microsoft Graph API PowerShell](https://github.com/felipearborestrepo/Automated-User-Onboarding-Microsoft-Graph-API-PowerShell)**
 - **[Entitlement Management Governed Access Packages Microsoft Entra ID](https://github.com/felipearborestrepo/Entitlement-Management-Governed-Access-Packages-Microsoft-Entra-ID/blob/main/README.md)**
@@ -10,11 +9,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ### PowerShell Automation Projects + Microsoft Graph API
 ### 🏥Entra ID Security Health Check Automated PowerShell
-- **[No MFA Detector Automated Remediation| Microsoft Entra ID | PowerShell | Microsoft Graph API](https://github.com/felipearborestrepo/No-MFA-Detector-Automated-Remediation-Microsoft-Graph-API-PowerShell)**
-- **[Stale User Finder Inactive Account Detection | Microsoft Entra ID | PowerShell | Microsoft Graph API](https://github.com/felipearborestrepo/Stale-User-Finder-Inactive-Account-Detection-via-Microsoft-Graph)**
-- **[App Secret & Certificate Expiry Scanner | Microsoft Entra ID | PowerShell | Microsoft Graph API](https://github.com/felipearborestrepo/Entra-ID-Security-Health-Check-Automated-PowerShell-Toolkit)**
-- **[Admin Role Auditor Privileged Access Discovery | Microsoft Entra ID | PowerShell | Microsoft Graph API](https://github.com/felipearborestrepo/Admin-Role-Auditor-Privileged-Access-Discovery/tree/main)**
-- **[Guest User Access Auditor | Microsoft Entra ID | PowerShell | Microsoft Graph API](https://github.com/felipearborestrepo/Guest-User-Access-Auditor/blob/main/README.md)**
+- **[No MFA Detector Automated Remediation](https://github.com/felipearborestrepo/No-MFA-Detector-Automated-Remediation-Microsoft-Graph-API-PowerShell)**
+- **[Stale User Finder Inactive Account Detection](https://github.com/felipearborestrepo/Stale-User-Finder-Inactive-Account-Detection-via-Microsoft-Graph)**
+- **[App Secret & Certificate Expiry Scanner](https://github.com/felipearborestrepo/Entra-ID-Security-Health-Check-Automated-PowerShell-Toolkit)**
+- **[Admin Role Auditor Privileged Access Discovery](https://github.com/felipearborestrepo/Admin-Role-Auditor-Privileged-Access-Discovery/tree/main)**
+- **[Guest User Access Auditor](https://github.com/felipearborestrepo/Guest-User-Access-Auditor/blob/main/README.md)**
 
 ### 🏢Identity and Access Management Projects
 - **[Enterprise Conditional Access & Zero Trust Architecture](https://github.com/felipearborestrepo/-Enterprise-Conditional-Access-Zero-Trust-Architecture-)**
