@@ -1,5 +1,6 @@
 # <a href="https://www.linkedin.com/in/feliperestrepo/">Felipe Restrepo</a>'s IAM, Cloud, IT and Cybersecurity Project Portfolio 🔐
-# Current Position: IT System Administrator/Engineer | Okta · Entra ID · Endpoint Management · ITSM
+# Current Position: IT System Administrator/Engineer 
+- Okta · Entra ID · Endpoint Management · ITSM
 # Certifications
 ### 🔄🔐Automated Identity Lifecycle & Governed Access Management System + PowerShell Microsoft Graph API Automation
 - **[Automated User Onboarding Microsoft Graph API PowerShell](https://github.com/felipearborestrepo/Automated-User-Onboarding-Microsoft-Graph-API-PowerShell)**
