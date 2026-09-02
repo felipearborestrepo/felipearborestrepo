@@ -3,12 +3,16 @@
 
 **Identity & Access Management**
 - Okta Administration · Microsoft Entra ID (Azure AD) · Conditional Access · MFA Enforcement · FIDO2/WebAuthn · SSO · SAML 2.0 · OIDC · Identity Lifecycle Management · User Provisioning & Deprovisioning · Access Reviews · Privileged Access Management
+
 **Automation AI & Scripting**
 - PowerShell · Microsoft Graph API · AI Autopilot · Microsoft Copilot · Process Automation · Claude Cowork · Python
+
 **IT Service Management**
 - ITSM · ITIL (Incident · Problem · Change · Request Management) · CMDB Accuracy · SLA Management · KPI Monitoring · ServiceNow · Ticket Quality · Continual Service Improvement · Vendor Management · IT Contract Management
+
 **Endpoint & Device Management**
 - Microsoft Intune · Autopilot · Windows 11 Endpoint Management · macOS Support · Device Compliance Policies · Endpoint Security · Patch Management · Software Deployment · BitLocker · Device Lifecycle Management · PC Imaging & Deployment
+
 **Infrastructure & Security**
 Windows Server · Active Directory · DNS · DHCP · TCP/IP · VPN · Firewall Concepts · Zscaler ZIA (Zero Trust/SASE) · Microsoft Sentinel (KQL) · Vulnerability Management · Security Posture Monitoring · SOC 2 Awareness
 
