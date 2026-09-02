@@ -9,11 +9,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Dynamic Groups Auditor Automated Membership Rule Validation via Microsoft Graph](https://github.com/felipearborestrepo/Dynamic-Groups-Auditor-Automated-Membership-Rule-Validation-via-Microsoft-Graph/blob/main/README.md)**
 
 ### PowerShell Automation Projects + Microsoft Graph API
-### 🏥Entra ID Security Health Check Automated PowerShell Toolkit
-- **[No MFA Detector Automated Remediation](https://github.com/felipearborestrepo/No-MFA-Detector-Automated-Remediation-Microsoft-Graph-API-PowerShell)**
-- **[Stale User Finder Inactive Account Detection](https://github.com/felipearborestrepo/Stale-User-Finder-Inactive-Account-Detection-via-Microsoft-Graph)**
-- **[App Secret & Certificate Expiry Scanner](https://github.com/felipearborestrepo/Entra-ID-Security-Health-Check-Automated-PowerShell-Toolkit)**
-- **[Admin Role Auditor Privileged Access Discovery](https://github.com/felipearborestrepo/Admin-Role-Auditor-Privileged-Access-Discovery/tree/main)**
+### 🏥Entra ID Security Health Check Automated PowerShell
+- **[No MFA Detector Automated Remediation| Microsoft Entra ID | PowerShell | Microsoft Graph API](https://github.com/felipearborestrepo/No-MFA-Detector-Automated-Remediation-Microsoft-Graph-API-PowerShell)**
+- **[Stale User Finder Inactive Account Detection | Microsoft Entra ID | PowerShell | Microsoft Graph API](https://github.com/felipearborestrepo/Stale-User-Finder-Inactive-Account-Detection-via-Microsoft-Graph)**
+- **[App Secret & Certificate Expiry Scanner | Microsoft Entra ID | PowerShell | Microsoft Graph API](https://github.com/felipearborestrepo/Entra-ID-Security-Health-Check-Automated-PowerShell-Toolkit)**
+- **[Admin Role Auditor Privileged Access Discovery | Microsoft Entra ID | PowerShell | Microsoft Graph API](https://github.com/felipearborestrepo/Admin-Role-Auditor-Privileged-Access-Discovery/tree/main)**
+- **[Guest User Access Auditor | Microsoft Entra ID | PowerShell | Microsoft Graph API](https://github.com/felipearborestrepo/Guest-User-Access-Auditor/blob/main/README.md)**
 
 ### 🏢Identity and Access Management Projects
 - **[Enterprise Conditional Access & Zero Trust Architecture](https://github.com/felipearborestrepo/-Enterprise-Conditional-Access-Zero-Trust-Architecture-)**
