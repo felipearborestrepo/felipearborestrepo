@@ -40,6 +40,7 @@ Windows Server · Active Directory · DNS · DHCP · TCP/IP · VPN · Firewall C
 - **[App Secret & Certificate Expiry Scanner](https://github.com/felipearborestrepo/Entra-ID-Security-Health-Check-Automated-PowerShell-Toolkit)**
 - **[Admin Role Auditor Privileged Access Discovery](https://github.com/felipearborestrepo/Admin-Role-Auditor-Privileged-Access-Discovery/tree/main)**
 - **[Guest User Access Auditor](https://github.com/felipearborestrepo/Guest-User-Access-Auditor/blob/main/README.md)**
+- **[App Registration Ownership Auditor](https://github.com/felipearborestrepo/App-Registration-Ownership-Auditor/blob/main/README.md)**
 
 ### 🏢Identity and Access Management Projects
 - **[Enterprise Conditional Access & Zero Trust Architecture](https://github.com/felipearborestrepo/-Enterprise-Conditional-Access-Zero-Trust-Architecture-)**
