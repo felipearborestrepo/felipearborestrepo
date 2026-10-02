@@ -27,6 +27,12 @@ Windows Server · Active Directory · DNS · DHCP · TCP/IP · VPN · Firewall C
 - SC-500 Microsoft Azure Cloud AI Security Engineer Associate (In Progress)
 
 # Projects (Labs and Skills)
+
+### Okta Projects
+- **[Hybrid Identity Lab: Active Directory → Entra ID → Okta](https://github.com/felipearborestrepo/Hybrid-Identity-Lab-Active-Directory-Entra-ID-Okta)**
+- **[Okta + Salesforce SAML 2.0 Single Sign-On Lab
+](https://github.com/felipearborestrepo/Okta-Salesforce-SAML-2.0-SSO/blob/main/README.md#troubleshooting-single-sign-on-error)**
+
 ### 🔄🔐Automated Identity Lifecycle & Governed Access Management System + PowerShell Microsoft Graph API Automation
 - **[Automated User Onboarding Microsoft Graph API PowerShell](https://github.com/felipearborestrepo/Automated-User-Onboarding-Microsoft-Graph-API-PowerShell)**
 - **[Entitlement Management Governed Access Packages Microsoft Entra ID](https://github.com/felipearborestrepo/Entitlement-Management-Governed-Access-Packages-Microsoft-Entra-ID/blob/main/README.md)**
