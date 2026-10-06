@@ -1,106 +1,169 @@
-# <a href="https://www.linkedin.com/in/feliperestrepo/">Felipe Restrepo</a>'s IAM, Cloud, IT and Cybersecurity Project Portfolio 🔐
-# Current Position: IT System Administrator/Engineer 
+<h1 align="center">Hi, I'm Felipe Restrepo 👋</h1>
+<h3 align="center">IT System Administrator / Engineer · Identity & Access Management · Cloud Security</h3>
 
-**Identity & Access Management**
-- Okta Administration · Microsoft Entra ID (Azure AD) · Conditional Access · MFA Enforcement · FIDO2/WebAuthn · SSO · SAML 2.0 · OIDC · Identity Lifecycle Management · User Provisioning & Deprovisioning · Access Reviews · Privileged Access Management
+<p align="center">
+  <img src="https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
 
-**Automation AI & Scripting**
-- PowerShell · Microsoft Graph API · AI Autopilot · Microsoft Copilot · Process Automation · Claude Cowork · Python
+---
 
-**IT Service Management**
-- ITSM · ITIL (Incident · Problem · Change · Request Management) · CMDB Accuracy · SLA Management · KPI Monitoring · ServiceNow · Ticket Quality · Continual Service Improvement · Vendor Management · IT Contract Management
+## 🎯 About Me
 
-**Endpoint & Device Management**
-- Microsoft Intune · Autopilot · Windows 11 Endpoint Management · macOS Support · Device Compliance Policies · Endpoint Security · Patch Management · Software Deployment · BitLocker · Device Lifecycle Management · PC Imaging & Deployment
+I'm an IT System Administrator/Engineer focused on **Identity & Access Management**, **cloud security**, and **automation**. This profile is a portfolio of hands-on labs and projects covering Okta, Microsoft Entra ID, PowerShell + Microsoft Graph automation, vulnerability management, threat hunting, and incident response.
 
-**Infrastructure & Security**
-Windows Server · Active Directory · DNS · DHCP · TCP/IP · VPN · Firewall Concepts · Zscaler ZIA (Zero Trust/SASE) · Microsoft Sentinel (KQL) · Vulnerability Management · Security Posture Monitoring · SOC 2 Awareness
+---
 
-# Certifications
-- Okta Certified Administrator
-- Okta Certified Professional
-- SC-300 Microsoft Identity and Access Administrator Associate
-- AZ-104 Microsoft Azure Administrator Associate
-- CompTIA Security+
-- AZ-900 Microsoft Azure Fundamentals
-- SC-900 Microsoft Security, Compliance and Identity Fundamentals
-- SC-500 Microsoft Azure Cloud AI Security Engineer Associate (In Progress)
+## 🏅 Certifications
 
-# Projects (Labs and Skills)
+| Certification | Issuer | Status |
+|---|---|---|
+| Okta Certified Administrator | Okta | ✅ Earned |
+| Okta Certified Professional | Okta | ✅ Earned |
+| SC-300: Identity and Access Administrator Associate | Microsoft | ✅ Earned |
+| AZ-104: Azure Administrator Associate | Microsoft | ✅ Earned |
+| Security+ | CompTIA | ✅ Earned |
+| AZ-900: Azure Fundamentals | Microsoft | ✅ Earned |
+| SC-900: Security, Compliance & Identity Fundamentals | Microsoft | ✅ Earned |
+| SC-500: Azure Cloud AI Security Engineer Associate | Microsoft | 🔄 In Progress |
 
-### Okta Projects
-- **[Hybrid Identity Lab: Active Directory → Entra ID → Okta](https://github.com/felipearborestrepo/Hybrid-Identity-Lab-Active-Directory-Entra-ID-Okta)**
-- **[Okta + Salesforce SAML 2.0 Single Sign-On Lab
-](https://github.com/felipearborestrepo/Okta-Salesforce-SAML-2.0-SSO/blob/main/README.md#troubleshooting-single-sign-on-error)**
+---
 
-### 🔄🔐Automated Identity Lifecycle & Governed Access Management System + PowerShell Microsoft Graph API Automation
-- **[Automated User Onboarding Microsoft Graph API PowerShell](https://github.com/felipearborestrepo/Automated-User-Onboarding-Microsoft-Graph-API-PowerShell)**
-- **[Entitlement Management Governed Access Packages Microsoft Entra ID](https://github.com/felipearborestrepo/Entitlement-Management-Governed-Access-Packages-Microsoft-Entra-ID/blob/main/README.md)**
-- **[Automated Offboarding Secure Account Termination via Microsoft Graph](https://github.com/felipearborestrepo/Automated-Offboarding-Secure-Account-Termination-via-Microsoft-Graph/blob/main/README.md)**
-- **[Dynamic Groups Auditor Automated Membership Rule Validation via Microsoft Graph](https://github.com/felipearborestrepo/Dynamic-Groups-Auditor-Automated-Membership-Rule-Validation-via-Microsoft-Graph/blob/main/README.md)**
+## 🧰 Skills
 
-### PowerShell Automation Projects + Microsoft Graph API
-### 🏥Entra ID Security Health Check Automated PowerShell
-- **[MFA Combined Report — Method Type & Registration Age](https://github.com/felipearborestrepo/-MFA-Combined-Report-Method-Type-Registration-Age)**
-- **[No MFA Detector Automated Remediation](https://github.com/felipearborestrepo/No-MFA-Detector-Automated-Remediation-Microsoft-Graph-API-PowerShell)**
-- **[Stale User Finder Inactive Account Detection](https://github.com/felipearborestrepo/Stale-User-Finder-Inactive-Account-Detection-via-Microsoft-Graph)**
-- **[App Secret & Certificate Expiry Scanner](https://github.com/felipearborestrepo/Entra-ID-Security-Health-Check-Automated-PowerShell-Toolkit)**
-- **[Admin Role Auditor Privileged Access Discovery](https://github.com/felipearborestrepo/Admin-Role-Auditor-Privileged-Access-Discovery/tree/main)**
-- **[Guest User Access Auditor](https://github.com/felipearborestrepo/Guest-User-Access-Auditor/blob/main/README.md)**
-- **[App Registration Ownership Auditor](https://github.com/felipearborestrepo/App-Registration-Ownership-Auditor/blob/main/README.md)**
+| Area | Tools & Concepts |
+|---|---|
+| 🔐 **Identity & Access Management** | Okta · Microsoft Entra ID · Conditional Access · MFA · FIDO2/WebAuthn · SSO · SAML 2.0 · OIDC · Lifecycle Management (JML) · Provisioning/Deprovisioning · Access Reviews · PIM/PAM |
+| ⚙️ **Automation, AI & Scripting** | PowerShell · Microsoft Graph API · Python · Microsoft Copilot · Claude Cowork · Process Automation |
+| 💻 **Endpoint & Device Management** | Intune · Autopilot · Windows 11 · macOS · Compliance Policies · Endpoint Security · Patch Management · Software Deployment · BitLocker · Imaging & Deployment |
+| 🏗️ **Infrastructure & Security** | Windows Server · Active Directory · DNS · DHCP · TCP/IP · VPN · Firewalls · Zscaler ZIA (Zero Trust/SASE) · Microsoft Sentinel (KQL) · Vulnerability Management · SOC 2 Awareness |
+| 📋 **IT Service Management** | ITIL (Incident · Problem · Change · Request) · ServiceNow · CMDB · SLA & KPI Monitoring · Continual Service Improvement · Vendor & Contract Management |
 
-### 🏢Identity and Access Management Projects
-- **[Enterprise Conditional Access & Zero Trust Architecture](https://github.com/felipearborestrepo/-Enterprise-Conditional-Access-Zero-Trust-Architecture-)**
-- **[Privileged Identity Management (PIM) & Just-In-Time Admin Access](https://github.com/felipearborestrepo/Privileged-Identity-Management-PIM-Just-In-Time-Admin-Access/tree/main)**
-- **[ Identity Governance & Access Reviews – Microsoft Entra ID](https://github.com/felipearborestrepo/-Identity-Governance-Access-Reviews-Microsoft-Entra-ID-/tree/main)**
-- **[Hybrid Identity IAM Lab — Active Directory to Microsoft Entra ID Sync](https://github.com/felipearborestrepo/-Hybrid-Identity-IAM-Lab-Active-Directory-to-Microsoft-Entra-ID-Sync/tree/main)**
-- **[ Passwordless & Phishing-Resistant Authentication Architecture](https://github.com/felipearborestrepo/-Passwordless-Phishing-Resistant-Authentication-Architecture-/tree/main)**
-- **[Hybrid IAM & Secure Application Access Architecture (AD + Microsoft Entra ID)](https://github.com/felipearborestrepo/-Hybrid-IAM-Secure-Application-Access-Architecture-AD-Microsoft-Entra-ID-/blob/main/README.md)**
-- **[Microsoft Azure Entra ID IAM Foundation Lab](https://github.com/felipearborestrepo/Azure-Entra-ID-IAM-Foundation-Lab)**
-- **[Microsoft Azure Entra ID Conditional Access Policy Creation (MFA)](https://github.com/felipearborestrepo/Azure-Entra-ID-Conditional-Access-Policies/blob/main/README.md)**
-- **[Microsoft Entra ID — HR Onboarding Access Package (Identity Governance Lab)](https://github.com/felipearborestrepo/Microsoft-Entra-ID-HR-Onboarding-Access-Package-Identity-Governance-Lab-/tree/main)**
-- **[Enterprise Application & SSO Engineering Lab](https://github.com/felipearborestrepo/Enterprise-Application-SSO-Engineering-Lab-/tree/main)**
-- **[ Microsoft Entra ID Conditional Access Lab/Enforcing MFA with Privileged Identity Management & Sign-In Log Validation](https://github.com/felipearborestrepo/Microsoft-Entra-ID-Privileged-Identity-Management-PIM-Conditional-Access-Lab/blob/main/README.md)**
-- **[ Microsoft Entra ID — Conditional Access & Zero Trust Enforcement Lab](https://github.com/felipearborestrepo/Microsoft-Entra-ID-Conditional-Access-Zero-Trust-Enforcement-Lab/tree/main)**
-- **[Break-Glass Emergency Administrator Accounts (Microsoft Entra ID)](https://github.com/felipearborestrepo/Break-Glass-Emergency-Administrator-Accounts-Microsoft-Entra-ID-/tree/main)**
-- **[Microsoft Entra ID — Dynamic Group IAM Model/Automated Identity Lifecycle Management System (JML)](https://github.com/felipearborestrepo/Microsoft-Entra-ID-Dynamic-Group-IAM-Model-Automated-Identity-Lifecycle-Management-System-JML-/blob/main/README.md)**
-- **[Microsoft Entra ID — Identity Governance & Access Reviews Lab](https://github.com/felipearborestrepo/Microsoft-Entra-ID-Identity-Governance-Access-Reviews-Lab/tree/main)**
-- **[Active Directory Domain Controller Lab (Azure)/Identity Infrastructure & Lifecycle Management](https://github.com/felipearborestrepo/Active-Directory-Domain-Controller-Lab-Azure-Identity-Infrastructure-Lifecycle-Management/blob/main/README.md)**
-- **[Active Directory Troubleshooting Lab (1-VM Azure Setup)](https://github.com/felipearborestrepo/Active-Directory)**
-  
-## ⚠️ Vulnerability Management Projects
+---
 
-- **[Vulnerability Management Program Implementation](https://github.com/felipearborestrepo/vulnerability-management-project/tree/main)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/felipearborestrepo/programmatic-vulnerability-remediations-powershelll-bash/blob/main/README.md)**
-- **[Unauthenticated Scan vs Authenticated Scan Results(Tenable Nessus)](https://github.com/felipearborestrepo/Unauthenticated_vs_Authenticated-Scans)**
-- **[Unauthenticated Scan vs Authenticated Scan Results LINUX(Tenable Nessus)](https://github.com/felipearborestrepo/Linux_UnauthenticatedvsAuthenticated-Scans/blob/main/README.md#-project-structure)**
--  **[DISA STIG Template and Scan Execution Project(Tenable Nessus)](https://github.com/felipearborestrepo/DISA-STIG-Vulnerability-Template-Scan)**
--  **[Nessus Agent Scan Project Implementation(Tenable Nessus)](https://github.com/felipearborestrepo/Nessus-Agent-Scan-Project-Implementation/blob/main/README.md)**
--  **[Nessus Agent Scan Project Implementation LINUX (Tenable Nessus)](https://github.com/felipearborestrepo/Nessus-Agent-Scan-Linux-Project-Implementation/blob/main/README.md)**
--  **[Discovery Scan: Entire Subnet](https://github.com/felipearborestrepo/Discovery-Scan-Entire-Subnet-Scan-/blob/main/README.md)**
--  **[Manual Vulnerability Creation Remediation Project (FIREXFOX/SMB)](https://github.com/felipearborestrepo/Manual-Vulnerability-Creation-Remediation-Project/blob/main/README.md)**
--  **[Programmatic Vulnerability Remediation Windows 10](https://github.com/felipearborestrepo/Programmatic-Vulnerability-Remediation/blob/main/README.md)**
-## 🚨 Threat Hunting and Security Operations
+## 📂 Projects
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/felipearborestrepo/threat-hunting-scenario-tor-project)**
-- **[Brute Force Investigation in Exposed Azure VMs(Microsoft Defender, KQL Queries)](https://github.com/felipearborestrepo/MITRE-ATTACK-TTP-Devices-Exposed-to-the-Internet)**
-- **[Threat Hunting: Sudden Network Slowdowns (Simulated Attack)](https://github.com/felipearborestrepo/Threat-Hunting-Project-Entropy-Gorilla-Port-Scan/blob/main/README.md)**
-- **[Threat Hunting: Data Exfiltration by PIPd Employee (Simulated)](https://github.com/felipearborestrepo/Threat-Hunting-Data-Exfiltration-by-PIPd-Employee-Simulated-/blob/main/README.md)**
+> Click a category to expand it.
 
-## 🧯Incident Response and Triggering Alerts
+<details open>
+<summary><h3>🔑 Okta</h3></summary>
 
-- **[Azure Sentinel: Brute Force Detection & Incident Response(NIST 800-61)](https://github.com/felipearborestrepo/Incident-Response-Virtual-Machine-Brute-Forcing/blob/main/README.md)**
-- **[Azure Sentinel: Incident Response Project: PowerShell Suspicious Web Request(NIST 800-61)](https://github.com/felipearborestrepo/Incident-Response-PowerShell-Suspicious-Web-Request-NIST-800-61-/blob/main/README.md)**
-- **[Azure Sentinel: Incident Response Project: Impossible Travel Alert(NIST 88-61)](https://github.com/felipearborestrepo/Incident-Response-Potential-Impossible-Travel-MITRE-ATT-CK/blob/main/README.md)**
+| Project | Focus |
+|---|---|
+| [Hybrid Identity Lab: Active Directory → Entra ID → Okta](#) | Hybrid identity, directory integration |
+| [Okta + Salesforce SAML 2.0 Single Sign-On](#) | SSO, SAML 2.0 |
 
-## 🌐Network Analysis🕵️‍♂️
+</details>
 
-- **[Network Analysis with Wireshark and OSINT tool VirusTotal (Exfiltration, Hawkeye)](https://github.com/felipearborestrepo/Network-Analysis-Exfiltration-Wireshark/blob/main/README.md)**
+<details>
+<summary><h3>🔄 Identity Lifecycle Automation (Microsoft Graph + PowerShell)</h3></summary>
 
-## 🛡️🦅DISA STIG Implementation
+| Project | Focus |
+|---|---|
+| [Automated User Onboarding](#) | Graph API, provisioning |
+| [Automated Offboarding: Secure Account Termination](#) | Graph API, deprovisioning |
+| [Entitlement Management: Governed Access Packages](#) | Entra ID Governance |
+| [Dynamic Groups Auditor](#) | Membership rule validation |
 
-- **[DISA STIG Remediation on Windows 10 using Tenable & PowerShell "WN10-SO-000100 SMB packet signing"](https://github.com/felipearborestrepo/DISA-STIG-Remediation-on-Windows-10-using-Tenable-PowerShell-WN10-SO-000100-/blob/main/README.md)**
+</details>
 
-<hr/>
+<details>
+<summary><h3>🏥 Entra ID Security Health Check (PowerShell)</h3></summary>
+
+| Script | What It Does |
+|---|---|
+| [MFA Combined Report](#) | Reports MFA method type and registration age |
+| [No-MFA Detector](#) | Finds users without MFA and remediates |
+| [Stale User Finder](#) | Detects inactive accounts |
+| [App Secret & Certificate Expiry Scanner](#) | Flags expiring credentials |
+| [Admin Role Auditor](#) | Discovers privileged access |
+| [Guest User Access Auditor](#) | Reviews external user access |
+| [App Registration Ownership Auditor](#) | Finds ownerless or risky app registrations |
+
+</details>
+
+<details>
+<summary><h3>🏢 Microsoft Entra ID & IAM Architecture</h3></summary>
+
+**Conditional Access & Zero Trust**
+- [Enterprise Conditional Access & Zero Trust Architecture](#)
+- [Conditional Access & Zero Trust Enforcement Lab](#)
+- [Conditional Access Policy Creation (MFA)](#)
+- [Conditional Access: Enforcing MFA with PIM & Sign-In Log Validation](#)
+- [Passwordless & Phishing-Resistant Authentication Architecture](#)
+
+**Privileged Access**
+- [Privileged Identity Management (PIM) & Just-In-Time Admin Access](#)
+- [Break-Glass Emergency Administrator Accounts](#)
+
+**Identity Governance**
+- [Identity Governance & Access Reviews](#)
+- [Identity Governance & Access Reviews Lab](#)
+- [HR Onboarding Access Package](#)
+- [Dynamic Group IAM Model: Automated Lifecycle Management (JML)](#)
+
+**Hybrid Identity & Applications**
+- [Hybrid Identity Lab: Active Directory → Entra ID Sync](#)
+- [Hybrid IAM & Secure Application Access Architecture](#)
+- [Enterprise Application & SSO Engineering Lab](#)
+- [Entra ID IAM Foundation Lab](#)
+
+**Active Directory**
+- [Active Directory Domain Controller Lab (Azure)](#)
+- [Active Directory Troubleshooting Lab](#)
+
+</details>
+
+<details>
+<summary><h3>⚠️ Vulnerability Management (Tenable Nessus)</h3></summary>
+
+**Program & Scanning**
+- [Vulnerability Management Program Implementation](#)
+- [Discovery Scan: Entire Subnet](#)
+- [Unauthenticated vs Authenticated Scans: Windows](#)
+- [Unauthenticated vs Authenticated Scans: Linux](#)
+- [Nessus Agent Scan Implementation: Windows](#)
+- [Nessus Agent Scan Implementation: Linux](#)
+- [DISA STIG Template & Scan Execution](#)
+
+**Remediation**
+- [Programmatic Vulnerability Remediation (PowerShell & Bash)](#)
+- [Programmatic Vulnerability Remediation: Windows 10](#)
+- [Manual Vulnerability Creation & Remediation (Firefox / SMB)](#)
+- [DISA STIG Remediation: WN10-SO-000100 SMB Packet Signing](#)
+
+</details>
+
+<details>
+<summary><h3>🚨 Threat Hunting & Incident Response</h3></summary>
+
+**Threat Hunting (Microsoft Defender, KQL)**
+- [Unauthorized Tor Browser Usage](#)
+- [Brute Force Investigation on Exposed Azure VMs](#)
+- [Sudden Network Slowdowns (Simulated Attack)](#)
+- [Data Exfiltration by a PIP'd Employee (Simulated)](#)
+
+**Incident Response (Microsoft Sentinel, NIST 800-61)**
+- [Brute Force Detection & Response](#)
+- [PowerShell Suspicious Web Request](#)
+- [Impossible Travel Alert](#)
+
+**Network Analysis**
+- [Wireshark + VirusTotal OSINT: Exfiltration (HawkEye)](#)
+
+</details>
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 
