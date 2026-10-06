@@ -34,6 +34,7 @@ Windows Server · Active Directory · DNS · DHCP · TCP/IP · VPN · Firewall C
 ](https://github.com/felipearborestrepo/Okta-Salesforce-SAML-2.0-SSO/blob/main/README.md#troubleshooting-single-sign-on-error)**
 
 ### 🔄🔐Automated Identity Lifecycle & Governed Access Management System + PowerShell Microsoft Graph API Automation
+- **[MFA Combined Report — Method Type & Registration Age](https://github.com/felipearborestrepo/-MFA-Combined-Report-Method-Type-Registration-Age)**
 - **[Automated User Onboarding Microsoft Graph API PowerShell](https://github.com/felipearborestrepo/Automated-User-Onboarding-Microsoft-Graph-API-PowerShell)**
 - **[Entitlement Management Governed Access Packages Microsoft Entra ID](https://github.com/felipearborestrepo/Entitlement-Management-Governed-Access-Packages-Microsoft-Entra-ID/blob/main/README.md)**
 - **[Automated Offboarding Secure Account Termination via Microsoft Graph](https://github.com/felipearborestrepo/Automated-Offboarding-Secure-Account-Termination-via-Microsoft-Graph/blob/main/README.md)**
