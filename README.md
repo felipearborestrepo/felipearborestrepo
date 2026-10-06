@@ -164,7 +164,7 @@ I'm an IT System Administrator/Engineer focused on **Identity & Access Managemen
 <p>
   <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/felipe-restrepo-ab56a5318/?isSelfProfile=true)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## :yt: My Youtube Channel 
+## 🎥 My Youtube Channel 
   <a href="https://www.youtube.com/@feliperestrepocyber"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
