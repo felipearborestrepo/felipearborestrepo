@@ -56,7 +56,7 @@ I'm an IT System Administrator/Engineer focused on **Identity & Access Managemen
 |---|---|
 | [Hybrid Identity Lab: Active Directory → Entra ID → Okta](#) | Hybrid identity, directory integration |
 | [Okta + Salesforce SAML 2.0 Single Sign-On](#) | SSO, SAML 2.0 |
-| [Okta SCIM 2.0 Provisioning Lab: Joiner, Mover, Leaver[([#](https://github.com/felipearborestrepo/Okta-SCIM-2.0-Provisioning-Lab---Joiner---Mover---Leaver/blob/main/README.md)) | SCIM, SAML 2.0, JML |
+| [Okta SCIM 2.0 Provisioning Lab: Joiner, Mover, Leaver](https://github.com/felipearborestrepo/Okta-SCIM-2.0-Provisioning-Lab---Joiner---Mover---Leaver/blob/main/README.md) | SCIM, SAML 2.0, JML |
 
 </details>
 
