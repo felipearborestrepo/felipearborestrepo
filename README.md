@@ -81,7 +81,7 @@ I'm an IT System Administrator/Engineer focused on **Identity & Access Managemen
 | [No-MFA Detector](#) | Finds users without MFA and remediates |
 | [Stale User Finder](#) | Detects inactive accounts |
 | [App Secret & Certificate Expiry Scanner](#) | Flags expiring credentials |
-| [🔐 Privileged Access Weekly Digest] (https://github.com/felipearborestrepo/-Privileged-Access-Weekly-Digest/blob/main/README.md) | Discovers privileged access + details
+| [🔐 Privileged Access Weekly Digest](https://github.com/felipearborestrepo/-Privileged-Access-Weekly-Digest/blob/main/README.md) | Discovers privileged access + details
 | [Admin Role Auditor](#) | Discovers privileged access |
 | [Guest User Access Auditor](#) | Reviews external user access |
 | [App Registration Ownership Auditor](#) | Finds ownerless or risky app registrations |
