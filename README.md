@@ -29,7 +29,8 @@ I'm an IT System Administrator/Engineer focused on **Identity & Access Managemen
 | Security+ | CompTIA | ✅ Earned |
 | AZ-900: Azure Fundamentals | Microsoft | ✅ Earned |
 | SC-900: Security, Compliance & Identity Fundamentals | Microsoft | ✅ Earned |
-| SC-500: Azure Cloud AI Security Engineer Associate | Microsoft | 🔄 In Progress |
+| SC-500: Azure Cloud AI Security Engineer Associate | Microsoft | ✅ Earned |
+| Okta Certified Consultant | Okta | In Pogress |
 
 ---
 
