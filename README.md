@@ -74,7 +74,7 @@ I'm an IT System Administrator/Engineer focused on **Identity & Access Managemen
 </details>
 
 <details>
-<summary><h3>🏥 Entra ID Security Health Check (PowerShell)</h3></summary>
+<summary><h3>🏥 Entra ID Security Tenant Check (PowerShell + Microsoft Graph API)</h3></summary>
 
 | Script | What It Does |
 |---|---|
@@ -82,7 +82,8 @@ I'm an IT System Administrator/Engineer focused on **Identity & Access Managemen
 | [No-MFA Detector](#) | Finds users without MFA and remediates |
 | [Stale User Finder](#) | Detects inactive accounts |
 | [App Secret & Certificate Expiry Scanner](#) | Flags expiring credentials |
-| [🔐 Privileged Access Weekly Digest](https://github.com/felipearborestrepo/-Privileged-Access-Weekly-Digest/blob/main/README.md) | Discovers privileged access + details
+| [🔐 App Security Weekly Digest](https://github.com/felipearborestrepo/-App-Security-Weekly-Digest/tree/main) | Discover App Registrations risks |
+| [🔐 Privileged Access Weekly Digest](https://github.com/felipearborestrepo/-Privileged-Access-Weekly-Digest/blob/main/README.md) | Discovers privileged access + details |
 | [Admin Role Auditor](#) | Discovers privileged access |
 | [Guest User Access Auditor](#) | Reviews external user access |
 | [App Registration Ownership Auditor](#) | Finds ownerless or risky app registrations |
