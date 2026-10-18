@@ -55,9 +55,10 @@ I'm an IT System Administrator/Engineer focused on **Identity & Access Managemen
 
 | Project | Focus |
 |---|---|
-| [Hybrid Identity Lab: Active Directory → Entra ID → Okta](#) | Hybrid identity, directory integration |
-| [Okta + Salesforce SAML 2.0 Single Sign-On](#) | SSO, SAML 2.0 |
+| [Hybrid Identity Lab: Active Directory → Entra ID → Okta](https://github.com/felipearborestrepo/Hybrid-Identity-Lab-Active-Directory-Entra-ID-Okta) | Hybrid identity, directory integration |
+| [Okta + Salesforce SAML 2.0 Single Sign-On](https://github.com/felipearborestrepo/Okta-Salesforce-SAML-2.0-SSO) | SSO, SAML 2.0 |
 | [Okta SCIM 2.0 Provisioning Lab: Joiner → Mover → Leaver](https://github.com/felipearborestrepo/Okta-SCIM-2.0-Provisioning-Lab---Joiner---Mover---Leaver/blob/main/README.md) | SCIM, SAML 2.0, JML |
+| [Okta OIDC Sign-In + Protected API (OAuth 2.0 / API Access Management)](https://github.com/felipearborestrepo/Okta-OIDC-Sign-In-Protected-API-OAuth-2.0-API-Access-Management-) | OIDC, OAuth 2.0 |
 
 </details>
 
@@ -66,10 +67,10 @@ I'm an IT System Administrator/Engineer focused on **Identity & Access Managemen
 
 | Project | Focus |
 |---|---|
-| [Automated User Onboarding](#) | Graph API, provisioning |
-| [Automated Offboarding: Secure Account Termination](#) | Graph API, deprovisioning |
-| [Entitlement Management: Governed Access Packages](#) | Entra ID Governance |
-| [Dynamic Groups Auditor](#) | Membership rule validation |
+| [Automated User Onboarding](https://github.com/felipearborestrepo/Automated-User-Onboarding-Microsoft-Graph-API-PowerShell) | Graph API, provisioning |
+| [Automated Offboarding: Secure Account Termination](https://github.com/felipearborestrepo/Automated-Offboarding-Secure-Account-Termination-via-Microsoft-Graph) | Graph API, deprovisioning |
+| [Entitlement Management: Governed Access Packages](https://github.com/felipearborestrepo/Entitlement-Management-Governed-Access-Packages-Microsoft-Entra-ID) | Entra ID Governance |
+| [Dynamic Groups Auditor](https://github.com/felipearborestrepo/Dynamic-Groups-Auditor-Automated-Membership-Rule-Validation-via-Microsoft-Graph) | Membership rule validation |
 
 </details>
 
@@ -78,15 +79,15 @@ I'm an IT System Administrator/Engineer focused on **Identity & Access Managemen
 
 | Script | What It Does |
 |---|---|
-| [MFA Combined Report](#) | Reports MFA method type and registration age |
-| [No-MFA Detector](#) | Finds users without MFA and remediates |
-| [Stale User Finder](#) | Detects inactive accounts |
-| [App Secret & Certificate Expiry Scanner](#) | Flags expiring credentials |
-| [🔐 App Security Weekly Digest](https://github.com/felipearborestrepo/-App-Security-Weekly-Digest/tree/main) | Discover App Registrations risks |
-| [🔐 Privileged Access Weekly Digest](https://github.com/felipearborestrepo/-Privileged-Access-Weekly-Digest/blob/main/README.md) | Discovers privileged access + details |
-| [Admin Role Auditor](#) | Discovers privileged access |
-| [Guest User Access Auditor](#) | Reviews external user access |
-| [App Registration Ownership Auditor](#) | Finds ownerless or risky app registrations |
+| [MFA Combined Report](https://github.com/felipearborestrepo/-MFA-Combined-Report-Method-Type-Registration-Age) | Reports MFA method type and registration age |
+| [No-MFA Detector](https://github.com/felipearborestrepo/No-MFA-Detector-Automated-Remediation-Microsoft-Graph-API-PowerShell) | Finds users without MFA and remediates |
+| [Stale User Finder](https://github.com/felipearborestrepo/Stale-User-Finder-Inactive-Account-Detection-via-Microsoft-Graph) | Detects inactive accounts |
+| [App Secret & Certificate Expiry Scanner](https://github.com/felipearborestrepo/App-Secret-Certificate-Expiry-Reporter) | Flags expiring credentials |
+| [App Security Weekly Digest](https://github.com/felipearborestrepo/-App-Security-Weekly-Digest/tree/main) | Discover App Registrations risks |
+| [Privileged Access Weekly Digest](https://github.com/felipearborestrepo/-Privileged-Access-Weekly-Digest/blob/main/README.md) | Discovers privileged access + details |
+| [Admin Role Auditor](https://github.com/felipearborestrepo/Admin-Role-Auditor-Privileged-Access-Discovery) | Discovers privileged access |
+| [Guest User Access Auditor](https://github.com/felipearborestrepo/Guest-User-Access-Auditor) | Reviews external user access |
+| [App Registration Ownership Auditor](https://github.com/felipearborestrepo/App-Registration-Ownership-Auditor) | Finds ownerless or risky app registrations |
 
 </details>
 
@@ -94,31 +95,30 @@ I'm an IT System Administrator/Engineer focused on **Identity & Access Managemen
 <summary><h3>🏢 Microsoft Entra ID & IAM Architecture</h3></summary>
 
 **Conditional Access & Zero Trust**
-- [Enterprise Conditional Access & Zero Trust Architecture](#)
-- [Conditional Access & Zero Trust Enforcement Lab](#)
-- [Conditional Access Policy Creation (MFA)](#)
-- [Conditional Access: Enforcing MFA with PIM & Sign-In Log Validation](#)
-- [Passwordless & Phishing-Resistant Authentication Architecture](#)
+- [Enterprise Conditional Access & Zero Trust Architecture](https://github.com/felipearborestrepo/-Enterprise-Conditional-Access-Zero-Trust-Architecture-)
+- [Conditional Access & Zero Trust Enforcement Lab](https://github.com/felipearborestrepo/Microsoft-Entra-ID-Conditional-Access-Zero-Trust-Enforcement-Lab)
+- [Conditional Access: Enforcing MFA with PIM & Sign-In Log Validation](https://github.com/felipearborestrepo/Microsoft-Entra-ID-Privileged-Identity-Management-PIM-Conditional-Access-Lab)
+- [Passwordless & Phishing-Resistant Authentication Architecture](https://github.com/felipearborestrepo/-Passwordless-Phishing-Resistant-Authentication-Architecture-)
 
 **Privileged Access**
-- [Privileged Identity Management (PIM) & Just-In-Time Admin Access](#)
-- [Break-Glass Emergency Administrator Accounts](#)
+- [Privileged Identity Management (PIM) & Just-In-Time Admin Access](https://github.com/felipearborestrepo/Privileged-Identity-Management-PIM-Just-In-Time-Admin-Access)
+- [Break-Glass Emergency Administrator Accounts](https://github.com/felipearborestrepo/Break-Glass-Emergency-Administrator-Accounts-Microsoft-Entra-ID-)
 
 **Identity Governance**
-- [Identity Governance & Access Reviews](#)
-- [Identity Governance & Access Reviews Lab](#)
-- [HR Onboarding Access Package](#)
-- [Dynamic Group IAM Model: Automated Lifecycle Management (JML)](#)
+- [Identity Governance & Access Reviews](https://github.com/felipearborestrepo/-Identity-Governance-Access-Reviews-Microsoft-Entra-ID-)
+- [Identity Governance & Access Reviews Lab](https://github.com/felipearborestrepo/-Identity-Governance-Access-Reviews-Microsoft-Entra-ID-)
+- [HR Onboarding Access Package](https://github.com/felipearborestrepo/Microsoft-Entra-ID-HR-Onboarding-Access-Package-Identity-Governance-Lab-)
+- [Dynamic Group IAM Model: Automated Lifecycle Management (JML)](https://github.com/felipearborestrepo/-JML-Dynamic-Group-Automation-Lab-Joiner-Mover-Leaver- )
 
 **Hybrid Identity & Applications**
-- [Hybrid Identity Lab: Active Directory → Entra ID Sync](#)
-- [Hybrid IAM & Secure Application Access Architecture](#)
-- [Enterprise Application & SSO Engineering Lab](#)
-- [Entra ID IAM Foundation Lab](#)
+- [Hybrid Identity Lab: Active Directory → Entra ID Sync](https://github.com/felipearborestrepo/-Hybrid-Identity-Lab-Active-Directory-Microsoft-Entra-ID-Synchronization-)
+- [Hybrid IAM & Secure Application Access Architecture](https://github.com/felipearborestrepo/-Hybrid-IAM-Secure-Application-Access-Architecture-AD-Microsoft-Entra-ID-)
+- [Enterprise Application & SSO Engineering Lab](https://github.com/felipearborestrepo/Enterprise-Application-SSO-Engineering-Lab-)
+- [Entra ID IAM Foundation Lab](https://github.com/felipearborestrepo/Azure-Entra-ID-IAM-Foundation-Lab)
 
 **Active Directory**
-- [Active Directory Domain Controller Lab (Azure)](#)
-- [Active Directory Troubleshooting Lab](#)
+- [Active Directory Domain Controller Lab (Azure)](https://github.com/felipearborestrepo/Active-Directory-Domain-Controller-Lab-Azure-Identity-Infrastructure-Lifecycle-Management)
+- [Active Directory Troubleshooting Lab](https://github.com/felipearborestrepo/Active-Directory)
 
 </details>
 
@@ -126,19 +126,19 @@ I'm an IT System Administrator/Engineer focused on **Identity & Access Managemen
 <summary><h3>⚠️ Vulnerability Management (Tenable Nessus)</h3></summary>
 
 **Program & Scanning**
-- [Vulnerability Management Program Implementation](#)
-- [Discovery Scan: Entire Subnet](#)
-- [Unauthenticated vs Authenticated Scans: Windows](#)
-- [Unauthenticated vs Authenticated Scans: Linux](#)
-- [Nessus Agent Scan Implementation: Windows](#)
-- [Nessus Agent Scan Implementation: Linux](#)
-- [DISA STIG Template & Scan Execution](#)
+- [Vulnerability Management Program Implementation](https://github.com/felipearborestrepo/vulnerability-management-project )
+- [Discovery Scan: Entire Subnet](https://github.com/felipearborestrepo/Discovery-Scan-Entire-Subnet-Scan-)
+- [Unauthenticated vs Authenticated Scans: Windows](https://github.com/felipearborestrepo/Unauthenticated_vs_Authenticated-Scans)
+- [Unauthenticated vs Authenticated Scans: Linux](https://github.com/felipearborestrepo/Linux_UnauthenticatedvsAuthenticated-Scans)
+- [Nessus Agent Scan Implementation: Windows](https://github.com/felipearborestrepo/Nessus-Agent-Scan-Project-Implementation)
+- [Nessus Agent Scan Implementation: Linux](https://github.com/felipearborestrepo/Nessus-Agent-Scan-Linux-Project-Implementation)
+- [DISA STIG Template & Scan Execution](https://github.com/felipearborestrepo/DISA-STIG-Vulnerability-Template-Scan)
 
 **Remediation**
-- [Programmatic Vulnerability Remediation (PowerShell & Bash)](#)
-- [Programmatic Vulnerability Remediation: Windows 10](#)
-- [Manual Vulnerability Creation & Remediation (Firefox / SMB)](#)
-- [DISA STIG Remediation: WN10-SO-000100 SMB Packet Signing](#)
+- [Programmatic Vulnerability Remediation (PowerShell & Bash)](https://github.com/felipearborestrepo/programmatic-vulnerability-remediations-powershelll-bash)
+- [Programmatic Vulnerability Remediation: Windows 10](https://github.com/felipearborestrepo/Programmatic-Vulnerability-Remediation)
+- [Manual Vulnerability Creation & Remediation (Firefox / SMB)](https://github.com/felipearborestrepo/Manual-Vulnerability-Creation-Remediation-Project)
+- [DISA STIG Remediation: WN10-SO-000100 SMB Packet Signing](https://github.com/felipearborestrepo/DISA-STIG-Vulnerability-Template-Scan)
 
 </details>
 
@@ -146,18 +146,17 @@ I'm an IT System Administrator/Engineer focused on **Identity & Access Managemen
 <summary><h3>🚨 Threat Hunting & Incident Response</h3></summary>
 
 **Threat Hunting (Microsoft Defender, KQL)**
-- [Unauthorized Tor Browser Usage](#)
-- [Brute Force Investigation on Exposed Azure VMs](#)
-- [Sudden Network Slowdowns (Simulated Attack)](#)
-- [Data Exfiltration by a PIP'd Employee (Simulated)](#)
+- [Unauthorized Tor Browser Usage](https://github.com/felipearborestrepo/threat-hunting-scenario-tor-project)
+- [Sudden Network Slowdowns (Simulated Attack)](https://github.com/felipearborestrepo/Threat-Hunting-Project-Entropy-Gorilla-Port-Scan)
+- [Data Exfiltration by a PIP'd Employee (Simulated)](https://github.com/felipearborestrepo/Threat-Hunting-Data-Exfiltration-by-PIPd-Employee-Simulated-)
 
 **Incident Response (Microsoft Sentinel, NIST 800-61)**
-- [Brute Force Detection & Response](#)
-- [PowerShell Suspicious Web Request](#)
-- [Impossible Travel Alert](#)
+- [Brute Force Detection & Response](https://github.com/felipearborestrepo/Incident-Response-Virtual-Machine-Brute-Forcing)
+- [PowerShell Suspicious Web Request](https://github.com/felipearborestrepo/Incident-Response-PowerShell-Suspicious-Web-Request-NIST-800-61-)
+- [Impossible Travel Alert](https://github.com/felipearborestrepo/Incident-Response-Potential-Impossible-Travel-MITRE-ATT-CK)
 
 **Network Analysis**
-- [Wireshark + VirusTotal OSINT: Exfiltration (HawkEye)](#)
+- [Wireshark + VirusTotal OSINT: Exfiltration (HawkEye)](https://github.com/felipearborestrepo/Network-Analysis-Exfiltration-Wireshark)
 
 </details>
 
