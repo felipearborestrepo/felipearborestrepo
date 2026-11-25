@@ -51,7 +51,7 @@ I'm an IT System Administrator/Engineer focused on **Identity & Access Managemen
 > Click a category to expand it.
 
 <details open>
-<summary><h3>🔑 Terraform Enterprise Project Automation User Lifecycle | CI/CD pipelines | GitHub Actions | HCP Terraform | Entra ID/Okta </h3></summary>
+<summary><h3>🚀🔄Terraform Enterprise Project Automation User Lifecycle | CI/CD pipelines | GitHub Actions | HCP Terraform | Entra ID/Okta </h3></summary>
 
 | Project | Focus |
 |---|---|
