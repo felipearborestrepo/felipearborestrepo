@@ -56,10 +56,8 @@ I'm an IT System Administrator/Engineer focused on **Identity & Access Managemen
 | Project | Focus |
 |---|---|
 | [Identity Platform as Code: Entra ID + Okta with Terraform](https://github.com/felipearborestrepo/Terraform) | Automated identity lifecycle for a fictional company, NovaLab. Users and groups are defined once in a YAML file, then created in Microsoft Entra ID and Okta with Terraform. Every change is checked by GitHub Actions and applied through HCP Terraform with human approval. |
-| [Phase 2 Terraform - Entra ID using OIDC OpenID Connect](https://github.com/felipearborestrepo/Phase-2-Terraform) | employees sign in to an app with Entra ID using OpenID Connect, and inspect the ID token to understand what the app receives.
-|
-| [Okta SCIM 2.0 Provisioning Lab: Joiner → Mover → Leaver](https://github.com/felipearborestrepo/Okta-SCIM-2.0-Provisioning-Lab---Joiner---Mover---Leaver/blob/main/README.md) | SCIM, SAML 2.0, JML |
-| [Okta OIDC Sign-In + Protected API (OAuth 2.0 / API Access Management)](https://github.com/felipearborestrepo/Okta-OIDC-Sign-In-Protected-API-OAuth-2.0-API-Access-Management-) | OIDC, OAuth 2.0 |
+| [Phase 2 Terraform - Entra ID using OIDC OpenID Connect](https://github.com/felipearborestrepo/Phase-2-Terraform) | employees sign in to an app with Entra ID using OpenID Connect, and inspect the ID token to understand what the app receives.|
+
 
 </details>
 
