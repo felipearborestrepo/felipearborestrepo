@@ -51,6 +51,19 @@ I'm an IT System Administrator/Engineer focused on **Identity & Access Managemen
 > Click a category to expand it.
 
 <details open>
+<summary><h3>🔑 Terraform Enterprise Project Automation User Lifecycle | CI/CD pipelines | GitHub Actions | HCP Terraform | Entra ID/Okta </h3></summary>
+
+| Project | Focus |
+|---|---|
+| [Hybrid Identity Lab: Active Directory → Entra ID → Okta](https://github.com/felipearborestrepo/Hybrid-Identity-Lab-Active-Directory-Entra-ID-Okta) | Hybrid identity, directory integration |
+| [Okta + Salesforce SAML 2.0 Single Sign-On](https://github.com/felipearborestrepo/Okta-Salesforce-SAML-2.0-SSO) | SSO, SAML 2.0 |
+| [Okta SCIM 2.0 Provisioning Lab: Joiner → Mover → Leaver](https://github.com/felipearborestrepo/Okta-SCIM-2.0-Provisioning-Lab---Joiner---Mover---Leaver/blob/main/README.md) | SCIM, SAML 2.0, JML |
+| [Okta OIDC Sign-In + Protected API (OAuth 2.0 / API Access Management)](https://github.com/felipearborestrepo/Okta-OIDC-Sign-In-Protected-API-OAuth-2.0-API-Access-Management-) | OIDC, OAuth 2.0 |
+
+</details>
+
+<details>
+
 <summary><h3>🔑 Okta</h3></summary>
 
 | Project | Focus |
