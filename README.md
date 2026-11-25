@@ -8,13 +8,15 @@
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
 ## 🎯 About Me
 
-I'm an IT System Administrator/Engineer focused on **Identity & Access Management**, **cloud security**, and **automation**. This profile is a portfolio of hands-on labs and projects covering Okta, Microsoft Entra ID, PowerShell + Microsoft Graph automation, vulnerability management, threat hunting, and incident response.
+I'm an IT System Administrator/Engineer focused on **Identity & Access Management**, **cloud security**, and **automation**. This profile is a portfolio of hands-on labs and projects covering Okta, Microsoft Entra ID, PowerShell + Microsoft Graph automation, Terraform + HCP Terraform, GitHub Actions, vulnerability management, threat hunting, and incident response.
 
 ---
 
@@ -39,7 +41,7 @@ I'm an IT System Administrator/Engineer focused on **Identity & Access Managemen
 | Area | Tools & Concepts |
 |---|---|
 | 🔐 **Identity & Access Management** | Okta · Microsoft Entra ID · Conditional Access · MFA · FIDO2/WebAuthn · SSO · SAML 2.0 · OIDC · Lifecycle Management (JML) · Provisioning/Deprovisioning · Access Reviews · PIM/PAM |
-| ⚙️ **Automation, AI & Scripting** | PowerShell · Microsoft Graph API · Python · Microsoft Copilot · Claude Cowork · Process Automation |
+| ⚙️ **Automation, AI & Scripting** | PowerShell · Microsoft Graph API · Terraform · Python · Microsoft Copilot · Claude Cowork · Process Automation |
 | 💻 **Endpoint & Device Management** | Intune · Autopilot · Windows 11 · macOS · Compliance Policies · Endpoint Security · Patch Management · Software Deployment · BitLocker · Imaging & Deployment |
 | 🏗️ **Infrastructure & Security** | Windows Server · Active Directory · DNS · DHCP · TCP/IP · VPN · Firewalls · Zscaler ZIA (Zero Trust/SASE) · Microsoft Sentinel (KQL) · Vulnerability Management · SOC 2 Awareness |
 | 📋 **IT Service Management** | ITIL (Incident · Problem · Change · Request) · ServiceNow · CMDB · SLA & KPI Monitoring · Continual Service Improvement · Vendor & Contract Management |
